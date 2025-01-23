@@ -35,7 +35,7 @@ ai_models = {
 }
 
 # Streamlit App UI
- st.header("Tweet Generator - AKBARALI")
+ #st.header("Tweet Generator - AKBARALI")
 st.subheader("Generate tweets using Generative AI")
 
 # Input for topic and number of tweets
